@@ -1,10 +1,15 @@
  
   
- <h1 align="center">Hi 👋, I'm Aviad</h1>
+<h1 align="center">Hi 👋, I'm Aviad bourla</h1>
 <h3 align="center">Junior developer and Computer Science graduate</h3>
 
+Highly motivated and always looking forward to learn and investigate new
+technologies to keep being modern and up to the industry standards, Intuitive,
+deductive and self-taught with attention to details and excellent communication
+skills
+
 - 🔭 I’m currently working on [Covid 19 - Dashboard](https://dashboard-live-covid19.herokuapp.com/admin/dashboard) 
-- 👨‍💻 All of my react projects are available here with links! 
+- 👨‍💻 All of my projects are available here, please feel free take a look 
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
