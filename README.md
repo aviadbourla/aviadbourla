@@ -1,11 +1,17 @@
- 
-<img src=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif />
-
-<h1 align="center">Hi 👋, I'm Aviad</h1>
+ <div style="disply="flex"">
+ <div>
+  <img src=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif />
+ </div>
+  <div>
+ <h1 align="center">Hi 👋, I'm Aviad</h1>
 <h3 align="center">Junior developer and Computer Science graduate</h3>
 
 - 🔭 I’m currently working on [Covid 19 - Dashboard](https://dashboard-live-covid19.herokuapp.com/admin/dashboard) (react-app)
 - 👨‍💻 All of my react projects are available here with links! 
+ </div>
+ </div>
+ 
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
