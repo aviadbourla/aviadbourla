@@ -10,7 +10,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodeJs" width="40" height="40"/>  
+ <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodeJs" width="40" height="40"/>  
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6m68pyL2ROK-o_1HX2dKiWwT31hu1fzvloQ&usqp=CAU" alt="mongodB" width="40" height="40"/>  
 
 </p>
