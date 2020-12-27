@@ -7,7 +7,7 @@ Highly motivated and always looking forward to learn and investigate new
 technologies to keep being modern and up to the industry standards.
 
 - 🔭 I’m currently working on [Covid 19 - Dashboard](https://dashboard-live-covid19.herokuapp.com/admin/dashboard) 
-- 👨‍💻 All of my projects are available here, please feel free take a look 
+- 👨‍💻 All of my projects are available here, please feel free to take a look 
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
