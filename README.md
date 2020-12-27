@@ -1,18 +1,11 @@
- <div style="disply="flex"">
- <div>
-  <img src=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif />
- </div>
-  <div>
+ 
+  
  <h1 align="center">Hi 👋, I'm Aviad</h1>
 <h3 align="center">Junior developer and Computer Science graduate</h3>
 
 - 🔭 I’m currently working on [Covid 19 - Dashboard](https://dashboard-live-covid19.herokuapp.com/admin/dashboard) (react-app)
 - 👨‍💻 All of my react projects are available here with links! 
- </div>
- </div>
  
- 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javaScript" width="40" height="40"/>
@@ -24,5 +17,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodeJs" width="40" height="40"/>  
  <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodB" width="40" height="40"/>  
-
 </p>
+
+  <img src=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif />
+
