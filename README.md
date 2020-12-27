@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**aviadbourla/aviadbourla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Highly motivated and always looking forward to learn and investigate new
+technologies to keep being modern and up to the industry standards, Intuitive,
+deductive and self-taught with attention to details and excellent communication
+skills.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
