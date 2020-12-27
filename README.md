@@ -22,5 +22,4 @@ technologies to keep being modern and up to the industry standards.
  <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodB" width="40" height="40"/>  
 </p>
 
-  <img src=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif />
-
+ 
