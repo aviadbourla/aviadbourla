@@ -1,6 +1,6 @@
  
   
-<h1 align="center">Hi 👋, I'm Aviad bourla</h1>
+<h1 align="center">Hi 👋, I'm Aviad</h1>
 <h3 align="center">Junior developer and Computer Science graduate</h3>
 
 Highly motivated and always looking forward to learn and investigate new
