@@ -1,6 +1,12 @@
  
 <img src=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif />
 
+<h1 align="center">Hi 👋, I'm Aviad</h1>
+<h3 align="center">Junior developer and Computer Science graduate</h3>
+
+- 🔭 I’m currently working on [Covid 19 - Dashboard](https://dashboard-live-covid19.herokuapp.com/admin/dashboard) (react-app)
+- 👨‍💻 All of my react projects are available here with links! 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javaScript" width="40" height="40"/>
